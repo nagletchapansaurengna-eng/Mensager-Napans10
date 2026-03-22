@@ -1,0 +1,5 @@
+{
+  "name": "MockupAI",
+  "description": "Generate professional product mockups by uploading your logo. Powered by Gemini 3 Pro Image.",
+  "requestFramePermissions": []
+}
